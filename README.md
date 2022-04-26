@@ -4,8 +4,6 @@ I live in Vancouver, BC. Before I became a developer I worked as a Chief Officer
 
 When I'm not at my keyboard I enjoy all things outdoors, making / eating good food and finding new and creative ways to annoy my better half.
 
----
-
 ## _Get In Touch_ &nbsp; &nbsp; 💬
 
 <div>
@@ -19,8 +17,6 @@ When I'm not at my keyboard I enjoy all things outdoors, making / eating good fo
     <img src="https://img.shields.io/badge/portfolio-424242?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
 </div>
-
----
 
 ## TECH
 
