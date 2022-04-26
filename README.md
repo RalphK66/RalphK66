@@ -9,7 +9,7 @@ When I'm not at my keyboard I enjoy all things outdoors, making / eating good fo
 ## _Get In Touch_   &nbsp; &nbsp;  💬
 
 
-<div style="display:flex; flex-wrap:wrap; flex-direction:row; gap:10px;align-items:center; margin:20px 0;">
+<div class='container'>
   <a href="mailto:ralphakilian@gmail.com" target='_blank'>
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
