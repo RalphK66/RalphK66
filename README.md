@@ -28,7 +28,7 @@ When I'm not at my keyboard I enjoy all things outdoors, making / eating good fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  title="JS" alt="JS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-    <img src="./assets/images/next_b.svg" title="Next" alt="Next" width="40" height="40"/>
+    <img src="./assets/images/next_w.svg" title="Next" alt="Next" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootsrap" alt="Bootstrap" width="40" height="40"/>  
 </div>
 
