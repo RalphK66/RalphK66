@@ -13,7 +13,7 @@ When I'm not at my keyboard I enjoy all things outdoors, making / eating good fo
   <a href="https://www.linkedin.com/in/rakilian/" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.ralphkilian.ca" target='_blank'>
+  <a href="https://ralphkilian.ca" target='_blank'>
     <img src="https://img.shields.io/badge/portfolio-424242?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
 </div>
